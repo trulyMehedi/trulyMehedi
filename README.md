@@ -11,8 +11,8 @@
 
 ## GitHub Stats
 
-[![trulyMehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trulyMehedi&theme=catppuccin_latte&show_icons=true&include_all_commits=true)](https://github.com/trulyMehedi#gh-light-mode-only)
-[![trulyMehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trulyMehedi&theme=catppuccin_mocha&show_icons=true&include_all_commits=true)](https://github.com/trulyMehedi#gh-dark-mode-only)
+[![trulyMehedi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=trulyMehedi&theme=catppuccin_latte&show_icons=true&include_all_commits=true)](https://github.com/trulyMehedi#gh-light-mode-only)
+[![trulyMehedi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=trulyMehedi&theme=catppuccin_mocha&show_icons=true&include_all_commits=true)](https://github.com/trulyMehedi#gh-dark-mode-only)
 
 ---
 
